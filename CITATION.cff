@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Gait Initiation Analysis: APA, Braking Index and Margin of Stability"
+abstract: "Python pipeline for the biomechanical analysis of gait initiation from force-platform and motion-capture data."
+type: software
+authors:
+  - family-names: "Pontieri Próspero"
+    given-names: "Pedro Henrique"
+    affiliation: "Faculty of Sport, University of Porto (FADEUP)"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/PedroProspero23/gait-initiation-analysis"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-15"
+keywords:
+  - "gait initiation"
+  - "anticipatory postural adjustments"
+  - "margin of stability"
+  - "braking index"
+  - "biomechanics"
+  - "force platform"
