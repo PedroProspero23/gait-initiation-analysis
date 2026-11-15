@@ -56,7 +56,7 @@ To analyse your own data, put the `.txt` files in the same folder and name them 
 
 **Pedro Henrique Pontieri Próspero**, Faculty of Sport, University of Porto (FADEUP)
 
-Developed during a research collaboration with Université Paris-Saclay, under the methodological guidance of [PhD student name].
+Developed during a research collaboration with Université Paris-Saclay, under the methodological guidance.
 
 ## References
 
